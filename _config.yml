@@ -35,6 +35,7 @@ repo_trophies:
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
+cv_pdf: resume.pdf
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
