@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: North Carolina State University #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
