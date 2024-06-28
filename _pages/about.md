@@ -14,6 +14,11 @@ news: false # includes a list of news items
 selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+My research interest lies in the intersection of incorporating learning theories and applying HCI techniques to incorporate and validate learning theories to add language related support in intelligent tutoring systems that would help sudents from diverse background learn better. 
+As a learning scientist, I cater to know challenges faced by learners from different background differ and how AI applications can help improve that. During my PhD, I was involved in understanding what are the factors of an intelligent tutoring system that are not helping students learn when they act as tutors. I proposed a model..
+
+My research involves analysing students interaction data with learning systems, reveal patterns helping or not helping, apply AI to mi...
+
 I am a PhD Candidate in the department of Computer Science from North Carolina State University (NCSU), expecting to graduate in August, 2024. I joined the IEC Lab at NCSU supervised by <a href='https://noborumatsuda.github.io/'>Dr. Noboru Matsuda</a> in 2018.[subreddit](http://reddit.com)
 My research interest lies at the intersection of Natural Language Processing (NLP) and Learning Sciences to facilitate equitable education. I strive to understand 
 Tasmia Shahriar is a dedicated and accomplished computer science researcher with extensive experience in both qualitative and quantitative data analysis. She holds a PhD and MS in Computer Science from North Carolina State University, and a BSc in Computer Science and Engineering from Bangladesh University of Engineering & Technology. Tasmia's technical expertise spans a variety of research methods, statistical analyses, and programming languages including R, Java, and Python. Her notable projects include developing advanced LLM models to enhance educational learning, classifying student responses to improve knowledge building, and creating intelligent systems for differential sequence mining. With a passion for innovative problem-solving and a strong foundation in machine learning frameworks like TensorFlow and PyTorch, Tasmia continues to contribute valuable insights to the field of educational technology.
