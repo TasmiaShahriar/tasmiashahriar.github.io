@@ -181,7 +181,10 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
-
+    <!-- acceptance rate -->
+    {% if entry.acceptance_rate %}
+    <div class="title">{{ entry.acceptance_rate }}</div>
+    {% endif %}
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
