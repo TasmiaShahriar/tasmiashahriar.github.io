@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+•	Human-Computer Interaction: Conducted lab sessions, developed curriculum materials and assessments, provided individualized student guidance.
+•	Discrete Mathematics: Developed curriculum materials and assessments, conducted review sessions.
+•	Computer Organization and Assembly Language: Clarified course concepts, managed student inquiries.
 
-Organize your courses by years, topics, or universities, however you like!

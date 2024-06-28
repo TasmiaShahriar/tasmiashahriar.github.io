@@ -333,8 +333,13 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: type
+  group_by: year
   group_order: descending
+
+  sort_by: year
+  order: descending
+  type_order: [article, inbook, book, unpublished, misc, report, conference, incollections, inproceedings, proceedings]
+  type_names: {unpublished: Preprints, report: reports, article: journal articles, inproceedings: Peer-reviewed conference papers}
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
