@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Metadata Extraction from Educational Videos using Audio Transcript
+description: This project aims to extract features from videos using audio transcripts to predict their usefulness based on popularity and educational values.
+img: assets/img/CMU_summer_school.png
+#redirect: https://unsplash.com
 importance: 3
 category: work
 ---

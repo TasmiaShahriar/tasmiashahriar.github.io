@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Generating Educational Explanations using Assertion-Enhanced Few-Shot Learning
-description: This project aims to design the prompt for LLMs so as to ensure the accurate and quality explanation generation and reduce hallucinations in an Intelligent Tutoring System.
-img: assets/img/preprint_2024.png
+description: This project aims to design effective prompts for Large Language Models (LLMs) to ensure accurate and high-quality explanation generation in problem-solving domains while minimizing hallucinations in an Intelligent Tutoring System.
+img: assets/img/preprint_2024.svg
+place: Research Project, IEC Lab, NCSU
+timeline: July 2023 - Dec 2023
 importance: 2
 category: work
-giscus_comments: true
+#giscus_comments: true
 ---
 We proposed inclusion of conceptual knowledge of a domain in the prompt separately from few-shot demonstrations which we define as assertion-enhanced few-shot prompt.
 Our proposed prompt reduces hallucinations by 15% when compared with traditional chain-of-thought prompting as graded by the in-service middle school teachers through survey data analysis.

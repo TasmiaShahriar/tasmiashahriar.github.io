@@ -1,0 +1,402 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="792" height="612" viewBox="0 0 792 612">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(1,0,0,-1,0,612)" d="M18 94.00001H774V519H18Z"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,612)" d="M18 94.00001H774V519H18Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(1,0,0,-1,0,612)" d="M18 519H774V94.00001H18Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,0,612)" d="M18 519H774V94.00003H18Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,0,612)" d="M369.2182 198.6653 369.2183 176.3731 368.037 176.373V198.6653ZM370.9902 177.1601 368.6277 172.4379 366.2652 177.1601Z" fill="#4472c4"/>
+<path transform="matrix(1,0,0,-1,0,612)" d="M18 499.8055C18 503.2673 20.80802 506.0737 24.27189 506.0737H767.7281C771.1919 506.0737 774 503.2673 774 499.8055V324.3369C774 320.8751 771.1919 318.0687 767.7281 318.0687H24.27189C20.80802 318.0687 18 320.8751 18 324.3369Z" fill="#fefebe" fill-rule="evenodd"/>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 705.6191)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">&#x1d457;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 45.30467 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">&#x2212;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 58.70398 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">6</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 71.58748 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">=</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 85.94754 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">&#x2212;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 95.49598 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">9</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 103.5679 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">,</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 107.4069 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 111.7382 705.6191)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0 40.197927 82.025028">&#x1d44e;&#x1d451;&#x1d451;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 142.0176 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 146.3488 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">6</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 154.4207 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">,</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 158.2597 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 162.591 705.6191)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0 33.22084 71.75419 106.17919 140.60419 176.3042 209.52504">&#x1d450;&#x1d45c;&#x1d45f;&#x1d45f;&#x1d452;&#x1d450;&#x1d461;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 220.1061 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.3069 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 309.0069 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">\</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 314.0272 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">n</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 323.3788 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 365.7069 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 35.68584 68.11334 98.84085 131.62252 169.78752 198.10669">because</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 421.0288 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 425.3601 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425 74.63001">our</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 449.6741 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 454.0054 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.096673 72.61835 105.45669">goal</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 483.8319 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 488.1632 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459">is</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 499.6804 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 504.0116 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255">to</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 518.285 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 522.6163 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459 48.01085 84.48293 103.31752 136.10628 159.0492">isolate</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 568.5866 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 572.9178 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255 61.950845">the</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 595.5585 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 599.8897 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 35.68584 68.467517 95.15752 114.83502 147.6167 183.30255 202.20088">variable</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 656.196 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 660.5272 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">j</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 665.2522 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 669.5835 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 32.810007 71.782527">and</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 695.571 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 699.9022 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">6</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 707.9741 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 712.3053 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459">is</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 723.8225 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 728.1538 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255 61.950845">the</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 750.7945 705.6191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 713.5391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 82.20692 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 138.9069 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 195.6069 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.3069 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 309.0069 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 365.7069 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 30.762925 67.26334 106.24294 134.52669 157.49794 190.31504 229.29462">constant</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 426.246 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 430.5772 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255 55.363348 82.01794">term</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 463.9476 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 468.2788 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 28.297923 66.44168 102.10627 125.09169 151.76044 184.5917 215.3688 238.35424 270.7605">subtracted</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 542.0085 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 546.3397 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.560421 49.22918 85.74377">from</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 580.596 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 584.9272 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">j</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 589.6522 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 593.4913 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 597.8225 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 43.066675 82.02501">The</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 625.2866 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 629.6178 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425 73.85085 111.20128 147.7017 175.98546 195.69838 218.66965">opposite</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 689.8616 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 694.1928 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425">of</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 708.3678 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 712.6991 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 718.5069 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">6</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 726.5788 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 730.9101 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459">is</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 742.4273 722.41909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 731.5391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 82.20692 731.5391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 138.9069 731.5391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 195.6069 731.5391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 82.20692 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 138.9069 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 195.6069 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.3069 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 309.0069 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 365.7069 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">+</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 375.2554 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">6</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 383.3272 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 387.1663 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 391.4976 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 34.864175 71.35751">So,</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 412.4647 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 416.796 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 53.727094">we</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 437.4679 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 441.7991 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 57.013765 95.18585 123.51211">must</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 476.9413 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 481.2726 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 32.810007 69.30335">add</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 506.6694 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 511.0007 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">6</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 519.0725 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 523.4038 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255">to</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 537.6772 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 542.0085 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459 48.01085 84.48293 103.31752 136.10628 159.0492">isolate</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 587.9788 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 592.31 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">j</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 597.035 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 601.3663 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425">on</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 619.4788 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 623.81 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459 42.627515">its</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 640.8397 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 645.171 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425 90.21335">own</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 676.1788 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 680.0178 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 684.3491 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 43.066675 82.02501 101.71668">This</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 715.5538 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 719.885 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 53.727094 73.383358 92.260448">will</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 746.5616 739.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 25.50692 748.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 82.20692 748.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 138.9069 748.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 195.6069 748.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.3069 748.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 82.20692 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 138.9069 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 195.6069 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.3069 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 309.0069 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 365.7069 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 26.66167 59.060846 87.35168 125.48835 144.35836">result</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 405.8694 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 410.2007 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459">in</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 424.2772 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 18.048336">  </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 432.9397 757.4591)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">&#x1d457;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 443.2875 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">&#x2212;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 456.6868 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">6</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 468.6095 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">+</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 482.0089 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">6</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 494.8924 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">=</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 506.8466 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 513.5837 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">&#x2212;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 523.1321 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">9</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 535.0549 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">+</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 548.4542 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">6</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 556.5261 757.4591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">.</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">&#x2212;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 44.50536 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">2</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 52.57723 792.4991)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">&#x1d466;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 67.33105 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">=</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 81.69111 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">8</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 89.76299 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">,</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 93.60205 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 97.9333 792.4991)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0 41.834177 64.826679 104.18168 127.17418 169.00836">&#x1d451;&#x1d456;&#x1d463;&#x1d456;&#x1d451;&#x1d452;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 147.4356 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 151.7668 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">2</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 159.8387 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">,</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 163.6777 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 168.009 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459">in</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 182.0856 792.4991)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0 33.22084 71.75419 106.17919 140.60419 176.3042 209.52504">&#x1d450;&#x1d45c;&#x1d45f;&#x1d45f;&#x1d452;&#x1d450;&#x1d461;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 239.6006 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.3069 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 309.0069 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">\</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 314.0272 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">n</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 323.3788 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 365.7069 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 35.68584 68.11334 98.84085 131.62252 169.78752 198.10669">because</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 421.0288 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 425.3601 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425 74.63001">our</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 449.6741 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 454.0054 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.096673 72.61835 105.45669">goal</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 483.8319 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 488.1632 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459">is</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 499.6804 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 504.0116 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255">to</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 518.285 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 522.6163 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459 48.01085 84.48293 103.31752 136.10628 159.0492">isolate</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 568.5866 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 572.9178 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255 61.950845">the</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 595.5585 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 599.8897 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 35.68584 68.467517 95.15752 114.83502 147.6167 183.30255 202.20088">variable</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 656.196 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 660.5272 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">y</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 669.485 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 673.8163 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 32.810007 71.782527">and</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 699.8038 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 704.135 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 709.9428 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">2</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 718.0147 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 722.346 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459">is</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 733.8632 792.4991)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 82.20692 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 138.9069 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 195.6069 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.3069 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 309.0069 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 365.7069 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 57.013765 95.18585 114.02044 136.96337 156.64795 193.97005 212.80463 232.48921 264.85298">multiplied</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 438.0585 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 442.3897 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 53.727094 73.383358 96.368778">with</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 474.8741 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 479.2054 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">y</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 488.1632 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 492.4944 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 32.810007 51.66584 79.94251">also</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 520.4507 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 524.7819 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.91126 75.87669 112.36295 166.0617">known</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 574.0007 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 578.3319 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 32.810007">as</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 592.9991 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 597.3303 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 30.762925 67.26334 99.65543 122.20169 144.74794 164.46086 195.22379 214.9367 247.32881 286.3084">coefficient</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 671.5522 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 675.3913 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 679.7225 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 43.066675 82.02501 114.39585 141.02919 173.40003 195.92504 232.4042 259.03758 291.40843">Therefore,</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 753.5507 809.53909)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 82.20692 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 138.9069 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 195.6069 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.3069 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 309.0069 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 365.7069 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 53.727094">we</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 386.3788 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 390.7101 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 28.297923 67.29169 103.80628 141.95005 160.82714">should</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 438.0585 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 442.3897 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425 56.213346 91.86376 111.57668 148.0771">divide</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 485.7022 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 490.0335 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 35.68584">by</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 507.5554 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 511.8866 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 517.6944 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">2</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 525.7663 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 530.0975 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 38.965425 75.45168">not</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 553.7225 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 558.0538 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.684588 57.856679 86.18293">just</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 584.2382 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 588.5694 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">2</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 596.6413 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 600.4803 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 604.8116 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 43.066675 82.02501 101.71668">This</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 636.0163 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 640.3475 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 53.727094 73.383358 92.260448">will</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 667.0241 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 671.3553 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 26.66167 59.060846 87.35168 125.48835 144.35836">result</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 711.5178 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 715.8491 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459">in</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 729.9257 826.5791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 844.3391)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 82.20692 844.3391)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 138.9069 844.3391)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 195.6069 844.3391)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.3069 844.3391)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 309.0069 844.3391)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 34.95692 851.53909)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 82.20692 851.53909)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 138.9069 851.53909)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 195.6069 851.53909)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.3069 851.53909)" font-size="70.83334" font-family="LinLibertineOI" font-style="italic"><tspan y="-2416" x="0"> </tspan></text>
+<path transform="matrix(1,0,0,-1,0,612)" d="M367.5069 345.0069H392.5069V346.00633H367.5069Z" fill-rule="evenodd"/>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 365.7069 841.2191)" font-size="50" font-family="CambriaMath"><tspan y="-2416" x="0">!</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 374.8616 841.2191)" font-size="50" font-family="CambriaMath"><tspan y="-2416" x="0">"</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 382.146 841.2191)" font-size="50" font-family="CambriaMath"><tspan y="-2416" x="0">#</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 369.8452 860.1791)" font-size="50" font-family="CambriaMath"><tspan y="-2416" x="0">!</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 378.9999 860.1791)" font-size="50" font-family="CambriaMath"><tspan y="-2416" x="0">"</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 395.2382 851.53909)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">=</tspan></text>
+<path transform="matrix(1,0,0,-1,0,612)" d="M414.5069 345.0069H431.5069V346.00633H414.5069Z" fill-rule="evenodd"/>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 417.5205 841.2191)" font-size="50" font-family="CambriaMath"><tspan y="-2416" x="0">$</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 412.9451 860.1791)" font-size="50" font-family="CambriaMath"><tspan y="-2416" x="0">!</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 422.0998 860.1791)" font-size="50" font-family="CambriaMath"><tspan y="-2416" x="0">"</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 429.3842 851.53909)" font-size="70.83334" font-family="Calibri"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#ffc000" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 18.45632 684.0191)" font-size="70.83334" font-family="LinLibertineOB" font-weight="bold"><tspan y="-2416" x="0 52.91251 88.18752 153.42502 193.23337 237.5042 268.24589 294.10008 324.84178 361.32096 387.17515 410.55018 450.35853 494.62937 525.37106 543.8586">Demonstrations: </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 153.3157 684.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 21.32792 60.29335 97.629619 135.74503">Input</tspan></text>
+<text fill="#ed7d31" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 191.411 684.0191)" font-size="70.83334" font-family="LinLibertineOB" font-weight="bold"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 195.7423 684.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">\</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 200.7626 684.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">n</tspan></text>
+<text fill="#ed7d31" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 210.1141 684.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 214.4454 684.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 50.85834 88.96668 111.91669 149.24587 187.3542">Output</tspan></text>
+<path transform="matrix(1,0,0,-1,0,612)" d="M17.67421 328.2676C17.67421 329.0671 18.32273 329.7153 19.12271 329.7153H772.2254C773.0254 329.7153 773.6739 329.0671 773.6739 328.2676V287.7498C773.6739 286.9502 773.0254 286.3021 772.2254 286.3021H19.12271C18.32273 286.3021 17.67421 286.9502 17.67421 287.7498Z" fill="#befdbe" fill-rule="evenodd"/>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 33.21841 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">4</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 42.76684 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">&#x1d45b;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 56.85522 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">+</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 73.60141 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">9</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 87.96147 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">=</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 105.6684 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">2</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 115.2168 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">&#x1d45b;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 125.4543 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 129.7856 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">,</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 133.6247 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 137.4637 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0 40.19792 58.65001 95.1646 115.24585 155.44377">divide</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 183.2372 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 187.0762 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0">2</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 196.6247 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 200.9559 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">,</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 204.795 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 18.048336 36.096673">   </tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 217.7887 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0 22.971253">&#x1d456;&#x1d45b;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 233.2434 880.3391)" font-size="70.83334" font-family="CambriaMath"><tspan y="-2416" x="0 33.22084 71.75419 106.17919 140.60419 176.3042 209.52504">&#x1d450;&#x1d45c;&#x1d45f;&#x1d45f;&#x1d452;&#x1d450;&#x1d461;</tspan></text>
+<text fill="#1102ff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 290.7585 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 307.2684 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">\</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 312.2887 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">n</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 321.6403 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 363.9684 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 39.787088 75.89083 108.31126 147.24834 179.66876 206.35169 239.1971 262.1967">&#x003c;generate</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 434.6465 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 438.9778 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425 74.63001 97.601268 134.95169 173.08129">output</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 486.0309 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 490.3621 880.3391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 38.965425 71.343349 97.983768 130.3617">here&#x003e;</tspan></text>
+<path transform="matrix(1,0,0,-1,0,612)" d="M317.4673 215.3281H417.1811V184.0638H317.4673Z" fill="#767171"/>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 345.6187 999.3791)" font-size="91.66667" font-family="LinLibertineOBI" font-weight="bold" font-style="italic"><tspan y="-2416" x="0 50.856676 101.71335">LLM</tspan></text>
+<path transform="matrix(1,0,0,-1,0,612)" d="M68.9975 173.0405H711.2713V104.3764H68.9975Z" fill="#ffceed"/>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 85.91329 1037.0591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 43.066675 79.545848 97.608348 117.30002 145.56253 182.0417 200.88338 233.67922 256.6292 289.00007 307.06257 330.01258 368.97093 401.34178 419.4043 455.1043 487.90016 514.53347 534.2251 567.02096 602.72097 621.5626 653.9334 671.9959 710.9542 726.9625 745.025 798.78756 831.1583 849.2208 888.17916 920.5499 952.9207 989.3999 1007.4624 1030.4124 1066.8915 1084.954 1141.9749 1178.454 1214.154 1246.5249 1264.5874 1297.3833 1316.225 1335.0667 1353.1292 1376.0791 1408.45 1435.0833 1492.1041 1520.3666 1538.4291 1592.1915 1611.8832 1634.8331 1673.7914 1691.8539 1730.8123 1748.8748 1771.8247 1808.3038 1826.3663 1862.8455 1901.8038 1934.1747 1952.2372 1980.4996 2000.1913 2036.6704 2069.0413 2087.1038 2123.583 2146.1082 2164.1707 2187.1209 2226.079 2258.45 2276.5125 2308.8834 2345.3626 2383.4708 2416.2664 2439.2166 2458.9083 2495.3875 2534.346">To isolate the variable n, we need to move all terms with n to one side of the equation </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 83.74766 1057.9391)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 32.810007 71.782527 108.27587 126.35254 159.16254 178.01836 196.87419 214.95087 245.70671 282.20005 321.17256 349.44923 372.4134 405.2234 444.1959 467.16007 485.23674 508.2009 540.5859 567.2334 624.26846 652.5451 670.62179 693.58596 730.0793 748.15597 771.1201 810.0926 842.4776 860.55429 897.0476 920.0118 958.98428 991.36929 1018.0168 1036.0935 1064.3703 1084.076 1120.5695 1152.9545 1168.9769 1187.0536 1221.9177 1244.882 1277.692 1304.3395 1327.3037 1347.0095 1385.982 1422.0504 1440.1271 1493.8329 1513.5387 1536.5029 1575.4755 1593.5521 1616.5164 1655.4889 1687.8739 1705.9506 1738.3356 1774.829 1812.9514 1845.7615 1868.7257 1888.4315 1924.9248 1963.8973 1981.974 2015.634 2054.6065 2072.683 2112.4349 2130.5115 2164.1717 2182.2484 2222 2240.0767 2273.7369 2312.7093 2328.7318 2346.8084 2400.5142 2432.8992 2450.9759 2481.7318 2514.5418 2553.5142">and all constant terms to the other side. Starting with the equation 4n + 9 = 2n, we can </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 284.8555 1079.0591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 28.297923 66.44168 102.10627 125.09169 151.76044 184.5917 215.3688 238.35424">subtract </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 346.3789 1079.0591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 33.63167 72.57584">4n </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 368.1336 1079.0591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.560421 49.22918 85.74377 142.7292 160.75629 196.42087 232.93546 255.92089 294.91465 312.94175 341.23966 360.8959 397.4105 429.81675 458.11466">from both sides </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 482.4195 1079.0591)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">&#x2026;</tspan></text>
+<text fill="#70ad47" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 17.80449 859.6991)" font-size="70.83334" font-family="LinLibertineOB" font-weight="bold"><tspan y="-2416" x="0 47.167924 82.435848 113.17043 139.01752 157.07294 183.69919 227.96294 269.81837 312.87797">Test Input</tspan></text>
+<path transform="matrix(1,0,0,-1,0,612)" d="M367.9148 227.1318 367.9149 218.5548H366.7336V227.1318ZM369.6867 219.3419 367.3243 214.6197 364.9617 219.3419Z" fill="#4472c4"/>
+<text fill="#70ad47" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 452.0617 1006.8191)" font-size="79.16667" font-family="LinLibertineOB" font-weight="bold"><tspan y="-2416" x="0 48.394594 96.789188 140.27544 201.41585 226.8521 265.43003 309.70796 350.74006">knowledge</tspan></text>
+<text fill="#70ad47" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 545.4789 1006.8191)" font-size="79.16667" font-family="LinLibertineOB" font-weight="bold"><tspan y="-2416" x="0">-</tspan></text>
+<text fill="#70ad47" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 552.271 1006.8191)" font-size="79.16667" font-family="LinLibertineOB" font-weight="bold"><tspan y="-2416" x="0 42.655008 89.82252 115.219188 140.61586 184.93337 210.33005 258.68507 299.67756 319.3742 357.91255 402.23005 448.21003 473.6067 513.4117 561.7667 601.5717 629.8975 655.2942 698.74087">building explanation</tspan></text>
+<path transform="matrix(1,0,0,-1,0,612)" d="M18 288.0437C18 289.2408 18.97102 290.2113 20.16884 290.2113H772.4829C773.6808 290.2113 774.6518 289.2408 774.6518 288.0437V227.3654C774.6518 226.1682 773.6808 225.1978 772.4829 225.1978H20.16884C18.97102 225.1978 18 226.1682 18 227.3654Z" fill="#f8cbad" fill-rule="evenodd"/>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 33.75521 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">A</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 45.76458 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 50.09584 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.560421 54.96668">few</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 76.18177 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 80.51302 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.560421 55.391679 86.16877 109.15419">facts</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 113.4896 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 117.8208 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 37.322095 73.79419">you</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 144.6943 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 149.0255 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 57.013765 95.18585 123.51211">must</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 184.1677 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 188.499 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 30.762925 67.26334 106.24294 134.52669 154.23961 190.74002 223.13213">consider</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 248.4474 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 252.7786 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 53.727094 92.72085 112.377109 131.2542">while</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 292.0552 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 296.3865 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.096673 68.51001 107.44001 139.85335 166.52919 199.36754 222.36005 242.02339 280.9534">generating</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 372.4786 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 376.8099 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425 74.63001 97.601268 134.95169 173.08129">output</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 423.863 920.1791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">:</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 33.75521 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 81.00521 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 86.81302 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 91.14427 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 41.423345 77.95919">You</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 119.0021 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 123.3333 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 30.762925 63.580015 102.55961 141.5392 178.03963">cannot</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 171.5677 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 175.899 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425 56.213346 91.86376 111.57668 148.0771">divide</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 219.2115 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 223.5427 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 53.727094 92.72085 125.127109">when</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 262.9177 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 267.249 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255 61.950845 94.34293 120.99752">there</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 304.0646 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 308.3958 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 32.810007 59.457509">are</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 330.4458 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 334.7771 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255 76.68418">two</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 361.9458 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 366.2771 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 35.68584 68.467517 95.15752 114.83502 147.6167 183.30255 202.20088">variable</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 422.5833 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 426.9146 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255 55.363348 82.01794 139.06003">terms</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 467.0771 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 471.4083 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459">in</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 485.4849 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 489.8161 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 32.810007">an</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 507.0427 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 511.374 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 32.399175 68.906688 107.04336 139.86753 162.84587 182.49504 219.00255">equation</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 573.2911 936.9791)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 33.75521 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 41.423345 77.95919">You</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 61.61302 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 65.94427 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 53.727094 73.383358 92.260448">will</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 92.62083 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 96.95208 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 35.68584">be</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 113.2927 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 117.624 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 38.965425 71.343349 104.14627 139.85335 159.5521 178.40085">heavily</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 169.4021 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 173.7333 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 37.322095 69.75669 108.70795 141.4967 160.33129 180.01587 210.75046 243.18505">penalized</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 240.8677 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 245.199 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 19.68459">if</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 255.338 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 259.6693 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 37.322095 73.79419 111.966289">your</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 292.9411 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 297.2724 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 36.500425 74.63001 97.601268 134.95169 173.08129">output</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 344.3255 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 348.6568 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 30.762925 67.26334 106.24294 129.21419 155.86878 188.68587 225.18628 244.8992 275.6621 298.63337">contradicts</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 427.1115 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 431.4427 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 53.727094 73.383358 96.368778">with</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 463.9271 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 468.2583 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.971255 61.950845">the</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 490.899 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 495.2302 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0 22.560421 55.391679 86.16877 109.15419">facts</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .2398589 528.2068 954.0191)" font-size="70.83334" font-family="LinLibertineO"><tspan y="-2416" x="0">.</tspan></text>
+<text fill="#995222" xml:space="preserve" transform="matrix(.24 0 -0 .2398589 17.80449 901.2191)" font-size="70.83334" font-family="LinLibertineOB" font-weight="bold"><tspan y="-2416" x="0 53.32334 84.05084 114.77834 150.03917 180.76668 206.60668 229.96752 269.7617 314.0892">Assertions</tspan></text>
+</g>
+</svg>
