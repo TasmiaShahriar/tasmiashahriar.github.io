@@ -1,24 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Generating Educational Explanations using Assertion-Enhanced Few-Shot Learning
+description: This project aims to design the prompt for LLMs so as to ensure the accurate and quality explanation generation and reduce hallucinations in an Intelligent Tutoring System.
+img: assets/img/preprint_2024.png
 importance: 2
 category: work
 giscus_comments: true
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+We proposed inclusion of conceptual knowledge of a domain in the prompt separately from few-shot demonstrations which we define as assertion-enhanced few-shot prompt.
+Our proposed prompt reduces hallucinations by 15% when compared with traditional chain-of-thought prompting as graded by the in-service middle school teachers through survey data analysis.
     ---
 
 <div class="row">

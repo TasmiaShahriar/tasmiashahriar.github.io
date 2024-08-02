@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Generating Educational Explanations using Assertion-Enhanced Few-Shot Learning
+description: Generating Educational Explanations using Assertion-Enhanced Few-Shot Learning
+img: assets/img/preprint_2024.png
 importance: 1
 category: work
 related_publications: true
+github: https://github.com/TasmiaShahriar/Differential-Sequence-Mining
 ---
 
 Every project has a beautiful feature showcase page.
