@@ -8,22 +8,16 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 919-737-5573  shahriartasmia@gmail.com
 
 news: false # includes a list of news items
 selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-My research interest lies in the intersection of incorporating learning theories and applying HCI techniques to incorporate and validate learning theories to add language related support in intelligent tutoring systems that would help sudents from diverse background learn better. 
-As a learning scientist, I cater to know challenges faced by learners from different background differ and how AI applications can help improve that. During my PhD, I was involved in understanding what are the factors of an intelligent tutoring system that are not helping students learn when they act as tutors. I proposed a model..
+I am a PhD Candidate in the department of Computer Science from North Carolina State University (NCSU), expecting to graduate in summer 2024. I joined the <a href='https://www.ieclab.org/'> IEC Lab </a>, supervised by <a href='https://noborumatsuda.github.io/'>Dr. Noboru Matsuda</a> in 2019.
 
-My research involves analysing students interaction data with learning systems, reveal patterns helping or not helping, apply AI to mi...
+My research interest lies at the development of Artificial Intelligence (AI) methods, with a particular emphasis on integrating Natural Language Processing (NLP) to promote equitable education through Intelligent Tutoring Systems. I am passionate about understanding the unique challenges learners face due to cognitive, racial, cultural, economic, and other social factors. By leveraging data mining, data analytics, and learning sciences, I aim to create solutions to address these challenges and improve educational outcomes for all students.
 
-I am a PhD Candidate in the department of Computer Science from North Carolina State University (NCSU), expecting to graduate in August, 2024. I joined the IEC Lab at NCSU supervised by <a href='https://noborumatsuda.github.io/'>Dr. Noboru Matsuda</a> in 2018.[subreddit](http://reddit.com)
-My research interest lies at the intersection of Natural Language Processing (NLP) and Learning Sciences to facilitate equitable education. I strive to understand 
-Tasmia Shahriar is a dedicated and accomplished computer science researcher with extensive experience in both qualitative and quantitative data analysis. She holds a PhD and MS in Computer Science from North Carolina State University, and a BSc in Computer Science and Engineering from Bangladesh University of Engineering & Technology. Tasmia's technical expertise spans a variety of research methods, statistical analyses, and programming languages including R, Java, and Python. Her notable projects include developing advanced LLM models to enhance educational learning, classifying student responses to improve knowledge building, and creating intelligent systems for differential sequence mining. With a passion for innovative problem-solving and a strong foundation in machine learning frameworks like TensorFlow and PyTorch, Tasmia continues to contribute valuable insights to the field of educational technology.
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently involved in the <a href='https://www.simstudent.org/home'> SimStudent project.</a> SimStudent is a teachable agent that utilizes inductive logic programming to learn from students' demonstrations. The project's goal is to facilitate students' learning by enabling them to teach the agent. My role focuses on generating contextually relevant questions to enhance students' critical thinking and improve their equation-solving skills as they engage in conversations with SimStudent.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of work and studies, I love meeting new people and embracing diverse perspectives. I find joy in dancing, exploring new cultures, and discovering new hobbies. Whether through my work, studies, or interactions with others, I aim to live a life filled with purpose, positivity, and curiosity. I welcome anyone who wants to connect, share ideas, or simply enjoy a good conversation.

@@ -1,17 +1,13 @@
 ---
 layout: default
 ---
-<div class="post">
-  <header class="post-header">
-    {% if page.title == 'Publications' %}
-    <div class='parent'>
-  <div class='child'>child 1</div>
-  <div class='child'>child 2</div>
-</div>
-    <div class="float-container">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <a href="https://scholar.google.com/citations?user=m9Yw7BoAAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a>
-    </div>
+  <div class="post">
+    <header class="post-header">
+      {% if page.title == 'Publications' %}
+      <div style="display: flex; align-items: center;">
+        <h1 class="post-title" style="margin-right: 30px;">{{ page.title }}</h1>
+        <a href="https://scholar.google.com/citations?user=m9Yw7BoAAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a>
+      </div>
     {% else %}
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-description">{{ page.description }}</p>
