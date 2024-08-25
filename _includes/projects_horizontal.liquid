@@ -10,6 +10,7 @@
         <div class="{% if project.img %}col-md-6{% else %}col-md-12{% endif %}">
           <div class="card-body">
             <h3 class="card-title">{{ project.title }}</h3>
+            <p class="card-text">{{ project.keywords }}</p>
             <p class="card-text">{{ project.place }}</p>
             <p class="card-text">{{ project.timeline }}</p>
             <ul class="card-text">
@@ -20,9 +21,9 @@
             <div class="row ml-1 mr-1 p-0">
               {% if project.github %}
                 <div class="github-icon">
-                  <div class="icon" data-toggle="tooltip" title="Code Repository">
+                  <!--<div class="icon" data-toggle="tooltip" title="Code Repository">
                     <a href="{{ project.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
-                  </div>
+                  </div>-->
                   {% if project.github_stars %}
                     <span class="stars" data-toggle="tooltip" title="GitHub Stars">
                       <i class="fa-solid fa-star"></i>

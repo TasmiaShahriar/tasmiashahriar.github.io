@@ -4,6 +4,7 @@ title: Conversational Qestion Generation using Large Language Models
 description: 
 - Proposes a three-stacked LLM model that utilizes in-context learning capabilities to generate context-aware conversational follow-up questions.
 - A/B experiments with 33 middle school students showed a 13% learning improvement compared to students who did not answer any follow-up questions.
+keywords: Large Language Models | In-context Learning | Parametric Statistical Analysis
 place: Research Project, IEC Lab, NCSU
 timeline: Oct 2023 - Feb 2024
 img: assets/img/proj_AIED2024.svg
