@@ -7,7 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-•	Human-Computer Interaction: Conducted lab sessions, developed curriculum materials and assessments, provided individualized student guidance.
-•	Discrete Mathematics: Developed curriculum materials and assessments, conducted review sessions.
-•	Computer Organization and Assembly Language: Clarified course concepts, managed student inquiries.
-
+•	Human-Computer Interaction | CSC554 - Section 001 | Class size of 120 students. 
+•	Discrete Mathematics | CSC226 - Section 002 | Class size of 118 students.
+•	Computer Organization and Assembly Language    | CSC236 - Section 001 | Class size of 200 students.
