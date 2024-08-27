@@ -14,7 +14,7 @@ news: false # includes a list of news items
 selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a PhD Candidate in Computer Science at North Carolina State University, graduating in summer 2024. I joined the  <a href='https://www.ieclab.org/'> IEC Lab </a>, supervised by <a href='https://noborumatsuda.github.io/'>Dr. Noboru Matsuda</a>, in 2019.
+I am a recent PhD graduate in Computer Science from North Carolina State University, graduated in August 12th, 2024. I joined the  <a href='https://www.ieclab.org/'> IEC Lab </a>, supervised by <a href='https://noborumatsuda.github.io/'>Dr. Noboru Matsuda</a>, in 2019.
 
 My research focuses on developing AI methods, especially integrating NLP to promote equitable education through Intelligent Tutoring Systems. I am passionate about addressing the unique challenges learners face due to cognitive, racial, cultural, economic, and other social factors. By leveraging data mining, analytics, and learning sciences, I aim to create solutions that improve educational outcomes for all students.
 
